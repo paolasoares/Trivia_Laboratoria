@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+   text-align:center;
+   font-family:Open Sans,sans-serif;
+   background-color:#c0d3c0 ;
+   color: black;
+   margin: 0px;
+ }
+.titulo{
+   color:#0d0c0c;
+   font-size: 40px;
+  font-weight: 'Brush Script MT', cursive;
+ }
+
+p{
+   line-height: 1.5;
+   font-size: 30px;
+ }
+
+.botao-seguir{    
+    padding: 10px;
+    width: 15vw;
+    height: 10vh;
+    font-size: larger;
+    background-color: #67c588;
+    border-radius: 20%;
+}
+.botao-seguir:hover{
+    background-color: lightgoldenrodyellow;
+
+}
